@@ -1,6 +1,9 @@
 # capstone-suhaniyadav-lab5
 
-<img width="687" height="904" alt="image" src="https://github.com/user-attachments/assets/3e638121-33cd-4da7-8a80-5adda7af4d5e" />
+<img width="913" height="739" alt="image" src="https://github.com/user-attachments/assets/f14b9465-a557-4008-97f0-3abb9fbf586c" />
+<img width="913" height="664" alt="image" src="https://github.com/user-attachments/assets/ca67b3c1-a66d-4d7c-b76e-65924abe2526" />
+
+
 
 
 
